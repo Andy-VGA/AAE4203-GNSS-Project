@@ -1,0 +1,70 @@
+
+==================================================
+pseudoranges_meas.csv
+Shape: 10 x 692
+Row 1: 0 valid / 692 missing
+Row 2: 683 valid / 9 missing
+Row 3: 686 valid / 6 missing
+Row 4: 141 valid / 551 missing
+Row 5: 686 valid / 6 missing
+Row 6: 611 valid / 81 missing
+Row 7: 301 valid / 391 missing
+Row 8: 0 valid / 692 missing
+Row 9: 607 valid / 85 missing
+Row 10: 505 valid / 187 missing
+
+==================================================
+satellite_positions.csv
+Shape: 10 x 2076
+Row 1: 0 valid / 2076 missing
+Row 2: 2049 valid / 27 missing
+Row 3: 2058 valid / 18 missing
+Row 4: 423 valid / 1653 missing
+Row 5: 2058 valid / 18 missing
+Row 6: 1833 valid / 243 missing
+Row 7: 903 valid / 1173 missing
+Row 8: 0 valid / 2076 missing
+Row 9: 1821 valid / 255 missing
+Row 10: 1515 valid / 561 missing
+
+==================================================
+satellite_clock_bias.csv
+Shape: 10 x 692
+Row 1: 0 valid / 692 missing
+Row 2: 683 valid / 9 missing
+Row 3: 686 valid / 6 missing
+Row 4: 141 valid / 551 missing
+Row 5: 686 valid / 6 missing
+Row 6: 611 valid / 81 missing
+Row 7: 301 valid / 391 missing
+Row 8: 0 valid / 692 missing
+Row 9: 607 valid / 85 missing
+Row 10: 505 valid / 187 missing
+
+==================================================
+ionospheric_delay.csv
+Shape: 10 x 692
+Row 1: 0 valid / 692 missing
+Row 2: 683 valid / 9 missing
+Row 3: 686 valid / 6 missing
+Row 4: 141 valid / 551 missing
+Row 5: 686 valid / 6 missing
+Row 6: 611 valid / 81 missing
+Row 7: 301 valid / 391 missing
+Row 8: 0 valid / 692 missing
+Row 9: 607 valid / 85 missing
+Row 10: 505 valid / 187 missing
+
+==================================================
+tropospheric_delay.csv
+Shape: 10 x 692
+Row 1: 0 valid / 692 missing
+Row 2: 683 valid / 9 missing
+Row 3: 686 valid / 6 missing
+Row 4: 141 valid / 551 missing
+Row 5: 686 valid / 6 missing
+Row 6: 611 valid / 81 missing
+Row 7: 301 valid / 391 missing
+Row 8: 0 valid / 692 missing
+Row 9: 607 valid / 85 missing
+Row 10: 505 valid / 187 missing

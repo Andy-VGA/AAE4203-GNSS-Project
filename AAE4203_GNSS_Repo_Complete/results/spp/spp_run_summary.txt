@@ -1,0 +1,24 @@
+AAE4203 GPS-only SPP baseline run
+================================
+Input epochs: 692
+Converged solutions: 687
+Failed epochs retained as NaN: 5
+Convergence rate: 99.28%
+Iteration range: 2 to 3
+Satellites used per converged epoch: 4 to 8
+
+ECEF coordinate statistics (m; descriptive statistics, not accuracy errors):
+           x_ecef_m      y_ecef_m      z_ecef_m
+count  6.870000e+02  6.870000e+02  6.870000e+02
+mean  -2.418248e+06  5.385768e+06  2.405769e+06
+std    5.550964e+01  5.557932e+01  1.171618e+01
+min   -2.418368e+06  5.384536e+06  2.405694e+06
+25%   -2.418255e+06  5.385752e+06  2.405762e+06
+50%   -2.418245e+06  5.385762e+06  2.405767e+06
+75%   -2.418238e+06  5.385778e+06  2.405776e+06
+max   -2.416972e+06  5.385928e+06  2.405823e+06
+
+Important limitations:
+- SNR >= 15 dB-Hz is stated in the conversion summary, but no raw SNR CSV was supplied for independent verification.
+- Correction sign conventions must be checked against the lab guide / source observation model before treating coordinates as final.
+- RTKPOST and NAV-HPPOSECEF comparisons are not included in this baseline output.
