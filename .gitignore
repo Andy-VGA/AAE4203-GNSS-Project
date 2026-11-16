@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.venv/
+venv/
+outputs/
+data/raw/
+secrets/
+*.obs
+*.nav
+*.ubx
+*.rnx
+*.pos
