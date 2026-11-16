@@ -4,11 +4,4 @@ __pycache__/
 .env
 .venv/
 venv/
-outputs/
-data/raw/
 secrets/
-*.obs
-*.nav
-*.ubx
-*.rnx
-*.pos
